@@ -7,4 +7,5 @@ Linguagens conhecidas:
 * SQL
 
 Estou testando a edição interna do git
+
 FIM DO ARQUIVO!
