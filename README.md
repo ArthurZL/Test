@@ -5,7 +5,8 @@ Linguagens conhecidas:
 * Java
 * C
 * SQL
+* Python
 
-Estou testando a edição interna do git
+Estou testando a edição interna do GitHub
 
 FIM DO ARQUIVO!
